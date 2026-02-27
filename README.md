@@ -1,4 +1,4 @@
-# ESP01 Universal PWM Controller
+# ESPRESSIF microcontroller Universal PWM Controller
 
 A simple universal PWM controller based on **ESP-01 (ESP8266)**. The device creates its own WiFi access point and allows you to set the PWM output value directly from a web browser via an HTTP endpoint.
 
